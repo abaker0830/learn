@@ -5,6 +5,8 @@
 body {
   margin: 0;
   padding: 0;
+  background-image: url(./spmn2.jpg);
+  background-size: cover;
 }
 
 header {
@@ -60,7 +62,7 @@ footer {
 }
 
 img {
-  width: 25%;
+  width: 15%;
 }
 
 .container {
